@@ -9,3 +9,7 @@ This project is a web-based implementation of the classic Simon game. The player
 
 ## [Exam Project](https://github.com/afathelbab/examproject)
 This project is a simple exam paoject that allows users to sign up, log in, and take a timed multiple-choice quiz. The application is built using HTML, CSS, and JavaScript. It includes features such as a timer, question navigation, and result display.
+
+## [Resume Webiste](https://github.com/afathelbab/Fath-Web)
+
+## [Move with Joy](https://github.com/afathelbab/bootstrap-website)
